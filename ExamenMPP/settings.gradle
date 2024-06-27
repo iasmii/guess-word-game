@@ -1,0 +1,6 @@
+rootProject.name = 'ExamenMPP'
+include 'ExamenClient'
+include 'ExamenComun'
+include 'ExamenREST'
+include 'ExamenServer'
+
